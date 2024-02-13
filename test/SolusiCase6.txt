@@ -1,0 +1,25 @@
+Matrix: 
+1C 7A 
+E9 1C 
+E9 55 
+1C E9 
+1C E9 
+E9 1C 
+7A A8 
+BD E9 
+
+Sekuens: 
+BD 
+82
+A8 BD 7A 7A 
+17
+
+82
+1C E9 1C E9 BD
+1, 1
+1, 2
+2, 2
+2, 8
+1, 8
+
+0 ms
